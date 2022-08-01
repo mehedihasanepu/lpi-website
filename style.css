@@ -1,0 +1,39 @@
+body{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.container{
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-top: 25px;
+    width: 520px;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 20px ;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+  .lpi-image{
+    margin-top: 50px;
+    height: 478px;
+    width: 850;
+  }
+  div h1{
+    margin-top: 100px;
+  }
+  div p {
+    margin-right: 460px;
+  }
